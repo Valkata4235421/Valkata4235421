@@ -1,6 +1,6 @@
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/79731568097599.5b50bca477735.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Valeri Zinoviev</h1>
+<h1 align="center">Hi 👋, I'm Valeri</h1>
 <h3 align="center">New developer from Bulgaria, currently learning Lua</h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="valkata4235421" /> </p>
