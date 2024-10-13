@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **QBCore and lua**
 
-- 💬 Ask me about **Ask me about QBCore and Lua!**
+- 💬 Ask me about **QBCore and Lua!**
 
 - 📫 How to reach me **vbojinov5@gmail.com**
 
