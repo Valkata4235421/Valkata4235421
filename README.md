@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="valkata4235421" /> </p>
 
-- 🌱 I’m currently learning **QBCore and lua**
+- 🌱 I’m currently learning **Lua, JavaScript, Html and Css**
 
-- 💬 Ask me about **QBCore and Lua!**
+- 💬 Ask me about **Lua, JavaScript, Html and Css**
 
 - 📫 How to reach me **vbojinov5@gmail.com**
 
-- ⚡ Fun fact **I’m a new developer from Bulgaria, and I’m diving into the world of QBCore and Lua ready to create some awesome projects!**
+- ⚡ Fun fact **I’m a new developer from Bulgaria, and I’m diving into the world of scripting ready to create some awesome projects!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
